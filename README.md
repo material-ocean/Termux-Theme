@@ -1,4 +1,6 @@
-![alt text](example.jpg)
+## Screenshots:
+
+![alt text](screenshot.jpg)
 
 ## Installation:
 
