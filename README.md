@@ -1,6 +1,6 @@
 ## Screenshots:
 
-![alt text](screenshot.jpg)
+![alt text](Screenshot.jpg)
 
 ## Installation:
 
